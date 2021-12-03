@@ -1,0 +1,6 @@
+name: Material-PE
+main: shop\Main
+api: [3.25.6]
+version: 1.2
+author: NZS
+website-source: https://github.com/NZSigourney
